@@ -1,4 +1,4 @@
-package mymodule //声明package名字为mymodule
+package testgomodule //声明package名字为mymodule
 
 import "fmt" //引入标准输出包
 
